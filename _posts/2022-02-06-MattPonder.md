@@ -10,7 +10,7 @@ tag: Team Intros
 My name is Matt Ponder
 I am a TCMG major at Texas A&M University.
 
-/Project2/assets/images/PonderHead.jpg
+![Matthew Ponder's head](/Project2/assets/images/PonderHead.jpg)
 
 # Interests
 
