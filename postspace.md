@@ -10,7 +10,7 @@ about them_
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="/Project2{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
