@@ -11,4 +11,4 @@ from Philadelphia, Pennsylvania.
 
 Enjoy my mugshot lol
 
-<img src="NagbeM.jpg"/>
+![Image of Matt Nagbe](/Project2/_assets/images/nagbe.png)
