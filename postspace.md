@@ -8,7 +8,7 @@ _Each team member will have a blog post on this page giving some info
 about them_ 
 
 <ul>
-  {% for post in site._posts %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
