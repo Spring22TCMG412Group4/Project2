@@ -1,7 +1,7 @@
 ---
 layout: default
+title: Homepage
 ---
  # This is our Homepage
 
-<<<<<<< blog-posts
-[Link to post page](./postspace.html)
+[Link to post page](/Project2/postspace.html)
