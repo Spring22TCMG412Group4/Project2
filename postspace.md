@@ -8,7 +8,7 @@ _Each team member will have a blog post on this page giving some info
 about them_ 
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site._posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
@@ -16,11 +16,3 @@ about them_
 </ul>
 
 [back](./)
-
-## Howdy!
-
-My name is Rachel Talkington. I am a Senior Technology Management Major, Business Minor from Carrollton, Texas.
-
-I am currently a member of the Texas A&M Corps of Cadets and the Fightin' Texas Aggie Band within the unit C-Company. In addition to this I am the Commanding Officer (sort of like club president) of the Corps Center Guard (pictured below).
-
-![The Corps Center Guard at an event this year](/assets/images/"Guard at Rally.jpg")
