@@ -6,9 +6,14 @@ title:  "Introduction to Matt Ponder"
 # Welcome!
 
 My name is Matt Ponder
+I am a TCMG major at Texas A&M University.
 
-I hope you like it!
+# Interests
 
-Put information about yourself here
+I love the outdoors; My major hobbies include: snowboarding, rock climbing, 
+hammock camping and more.
+I also really enjoy coffee in all of it's aspects. I have worked at a local 
+specialty coffee shop for a little over a year, and I still enjoy going to 
+work every day.
 
 link an image here ex. (/assets/images/bullet.png)
