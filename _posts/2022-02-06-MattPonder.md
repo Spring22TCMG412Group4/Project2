@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Introduction to Matt Ponder"
+author: Matt Ponder
+tag: Team Intros
 ---
 
 # Welcome!
