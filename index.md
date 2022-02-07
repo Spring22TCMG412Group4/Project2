@@ -3,4 +3,5 @@ layout: default
 ---
  # This is our Homepage
 
-[Link to another page](./another-page.html).
+<<<<<<< blog-posts
+[Link to post page](./postspace.html)
