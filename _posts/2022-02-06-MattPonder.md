@@ -8,7 +8,7 @@ title:  "Introduction to Matt Ponder"
 My name is Matt Ponder
 I am a TCMG major at Texas A&M University.
 
-PonderHead.jpg
+assets/images/PonderHead.jpg
 
 # Interests
 
@@ -18,7 +18,7 @@ I also really enjoy coffee in all of it's aspects. I have worked at a local
 specialty coffee shop for a little over a year, and I still enjoy going to 
 work every day.
 
-PonderCoffee.jpg
+assets/images/PonderCoffee.jpg
 
 # How I Work with the Team
 
