@@ -8,7 +8,7 @@ title:  "Introduction to Matt Ponder"
 My name is Matt Ponder
 I am a TCMG major at Texas A&M University.
 
-assets/images/PonderHead.jpg
+/Project2/assets/images/PonderHead.jpg
 
 # Interests
 
