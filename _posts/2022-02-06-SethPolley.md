@@ -11,4 +11,4 @@ I am a senior TCMG major from Denton, TX.
 
 Please enjoy this image of me and my brothers! 
 
-![Me and the boys](/assets/images/'Da brothas.JPG) 
+![Me and the boys](/Project2/assets/images/'Da brothas.JPG) 
