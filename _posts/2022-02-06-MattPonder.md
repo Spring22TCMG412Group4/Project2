@@ -26,7 +26,7 @@ work every day.
 
 I don't always push myself to facilitate growth in projects, but I step up to 
 lead if the need arises. For the most part, I just want to contribute what is 
-expected of me plus a little more. I have a strong beleif in the importance of 
+expected of me plus a little more. I have a strong belief in the importance of 
 fairness, and do everything in my ability to help those struggling.
 
 [back](/Project2/postspace)
