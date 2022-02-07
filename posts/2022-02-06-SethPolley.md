@@ -7,8 +7,8 @@ title: "Introduction to Seth Polley"
 
 My name is Seth Polley
 
-I am a senior TCMG major from Denton, TX
+I am a senior TCMG major from Denton, TX.
 
-I will need to add an image here!!!! 
+Please enjoy this image of me and my brothers! 
 
-oh boy! 
+![Me and the boys](/assets/images/'Da brothas.JPG) 
