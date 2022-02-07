@@ -7,4 +7,12 @@ layout: default
 _Each team member will have a blog post on this page giving some info 
 about them_ 
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 [back](./)
