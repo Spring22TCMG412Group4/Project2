@@ -20,7 +20,9 @@ I also really enjoy coffee in all of it's aspects. I have worked at a local
 specialty coffee shop for a little over a year, and I still enjoy going to 
 work every day.
 
+
 ![Cup of coffee](/Project2/assets/images/PonderCoffee.jpg)
+
 
 # How I Work with the Team
 
