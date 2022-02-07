@@ -2,7 +2,7 @@
 layout: post
 title: "Introduction to Seth Polley"
 author: Seth Polley
-tag: Team Intro
+tag: Team Intros
 ---
 
 # Howdy! 
