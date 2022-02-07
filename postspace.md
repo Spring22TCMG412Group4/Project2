@@ -2,7 +2,7 @@
 layout: default 
 ---
 
-## Welcome to the blog space! 
+## Welcome to our Blog! 
 
 _Each team member will have a blog post on this page giving some info 
 about them_ 
@@ -24,4 +24,4 @@ about them_
   </ul>
 {% endfor %}
 
-[back](./)
+[back](/Project2)
